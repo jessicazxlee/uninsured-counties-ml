@@ -1,6 +1,6 @@
-# ML_4641_Team_29
+# ML Research on Uninsured Rates
 
-This repository contains our CS 4641 machine learning project on modeling county-level uninsured rates in the United States using socioeconomic indicators from Data Commons. The project focuses on building a preprocessing pipeline, training baseline models, and evaluating predictive performance with regression metrics and visualizations.
+This repository contains a machine learning project on modeling county-level uninsured rates in the United States using socioeconomic indicators from Data Commons. The project focuses on building a preprocessing pipeline, training baseline models, and evaluating predictive performance with regression metrics and visualizations.
 
 ## Project Goal
 
