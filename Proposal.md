@@ -1,5 +1,4 @@
-# ML_4641_Team_29
-ML 4641 Project Proposal
+# Project Proposal
 
 **1. Introduction / Background**
 
@@ -88,15 +87,6 @@ https://www.nejm.org/doi/full/10.1056/NEJMsa1212321
 
 [4] scikit-learn developers, “Model evaluation: Quantifying the quality of predictions,” scikit-learn, 2025. [Online]. Available: https://scikit-learn.org/stable/modules/model_evaluation.html. [Accessed: 24-Feb-2026].
 
-**Contribution Table**
-
-| Name | Proposal Contribution |
-|---------|----------|
-| Aayush P | Research on dataset, Section 3. Methods|
-| Jessica L | Slideshow for Video Proposal, Recording/Editing Video Proposal |
-| Mona B | Sections 1. Introduction, Section 2. Problem Definition |
-| Jelena C | Sections 4. Results and Discussion |
-| Daanish M | Gantt Chart |
 
 **Video Presentation**
 
