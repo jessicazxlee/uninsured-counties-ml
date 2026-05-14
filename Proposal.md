@@ -91,7 +91,3 @@ https://www.nejm.org/doi/full/10.1056/NEJMsa1212321
 **Video Presentation**
 
 <https://youtu.be/dEP_7qmkjAY>
-
-**Gantt Chart**
-
-<https://docs.google.com/spreadsheets/d/1haZeVYoj3DfT7yv5yEm-OdRzf2P-u45e/edit?usp=sharing&ouid=107279860147909644308&rtpof=true&sd=true>
